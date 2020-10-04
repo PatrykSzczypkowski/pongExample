@@ -1,0 +1,1 @@
+This is a quick pong game example, which was started with code from https://noobtuts.com/unity/2d-pong-game. Goals and score tracking added by me, with plans to develop this game further to practice my programming skills.
