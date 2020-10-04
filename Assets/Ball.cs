@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//Code from https://noobtuts.com/unity/2d-pong-game, with Goal handling written by me
+using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;

@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//Code written by me
+using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEditor.Animations;
@@ -35,7 +36,5 @@ public class Score : MonoBehaviour
     {
         
     }
-
-    
 
 }

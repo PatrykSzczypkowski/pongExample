@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//Code from https://noobtuts.com/unity/2d-pong-game
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
